@@ -1,0 +1,13 @@
+name: investment_return_shiny
+title: investment_return_shiny
+username:
+account: shanej90
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6482583
+bundleId: 6004134
+url: https://shanej90.shinyapps.io/investment_return_shiny/
+when: 1655149428.3534
+lastSyncTime: 1655149428.3534
+asMultiple: FALSE
+asStatic: FALSE
